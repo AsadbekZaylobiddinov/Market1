@@ -1,0 +1,3 @@
+Id=1, Name=Palto, Price=1000000, Date=2/11/2023 2:31:50 AM, Sold=0
+Id=2, Name=Kurtka, Price=1500000, Date=2/11/2023 2:31:59 AM, Sold=0
+Id=3, Name=Kepka, Price=300000, Date=2/11/2023 2:32:09 AM, Sold=0

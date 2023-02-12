@@ -1,0 +1,15 @@
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\bin\Debug\net6.0\Market1.exe
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\bin\Debug\net6.0\Market1.deps.json
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\bin\Debug\net6.0\Market1.runtimeconfig.json
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\bin\Debug\net6.0\Market1.dll
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\bin\Debug\net6.0\Market1.pdb
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.csproj.AssemblyReference.cache
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.AssemblyInfoInputs.cache
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.AssemblyInfo.cs
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.csproj.CoreCompileInputs.cache
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.dll
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\refint\Market1.dll
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.pdb
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\Market1.genruntimeconfig.cache
+C:\Users\asadb\OneDrive\Рабочий стол\Market1\Market1\Market1\obj\Debug\net6.0\ref\Market1.dll
